@@ -1,0 +1,48 @@
+[submodule "P01-AYEDA"]
+	path = P01-AYEDA
+	url = https://github.com/Marco-Perez-Padilla/P01-AYEDA.git
+[submodule "AYEDA/P01-AYEDA"]
+	path = AYEDA/P01-AYEDA
+	url = https://github.com/Marco-Perez-Padilla/P01-AYEDA.git
+[submodule "AYEDA/P02-AYEDA"]
+	path = AYEDA/P02-AYEDA
+	url = https://github.com/Marco-Perez-Padilla/P02-AYEDA.git
+[submodule "AYEDA/P03-AYEDA"]
+	path = AYEDA/P03-AYEDA
+	url = https://github.com/Marco-Perez-Padilla/P03-AYEDA.git
+[submodule "AYEDA/P04-AYEDA"]
+	path = AYEDA/P04-AYEDA
+	url = https://github.com/Marco-Perez-Padilla/P04-AYEDA.git
+[submodule "SSOO/SSOO-C-_Project"]
+	path = SSOO/SSOO-C-_Project
+	url = https://github.com/Marco-Perez-Padilla/SSOO-C-_Project.git
+[submodule "SSOO/SSOO-Bash_Project"]
+	path = SSOO/SSOO-Bash_Project
+	url = https://github.com/Marco-Perez-Padilla/SSOO-Bash_Project.git
+[submodule "EDC/Procesador-EdC-V1"]
+	path = EDC/Procesador-EdC-V1
+	url = https://github.com/Marco-Perez-Padilla/Procesador-EdC-V1.git
+[submodule "EDC/Codifier-EdC"]
+	path = EDC/Codifier-EdC
+	url = https://github.com/Marco-Perez-Padilla/Codifier-EdC.git
+[submodule "EDC/ALU-EdC"]
+	path = EDC/ALU-EdC
+	url = https://github.com/Marco-Perez-Padilla/ALU-EdC.git
+[submodule "CyA/P02-CyA"]
+	path = CyA/P02-CyA
+	url = https://github.com/Marco-Perez-Padilla/P02-CyA.git
+[submodule "CyA/P04-CyA"]
+	path = CyA/P04-CyA
+	url = https://github.com/Marco-Perez-Padilla/P04-CyA.git
+[submodule "CyA/P06.2-CyA"]
+	path = CyA/P06.2-CyA
+	url = https://github.com/Marco-Perez-Padilla/P06.2-CyA.git
+[submodule "CyA/P08-CyA"]
+	path = CyA/P08-CyA
+	url = https://github.com/Marco-Perez-Padilla/P08-CyA.git
+[submodule "CyA/P11-CyA"]
+	path = CyA/P11-CyA
+	url = https://github.com/Marco-Perez-Padilla/P11-CyA.git
+[submodule "CyA/P12-CyA"]
+	path = CyA/P12-CyA
+	url = https://github.com/Marco-Perez-Padilla/P12-CyA.git
