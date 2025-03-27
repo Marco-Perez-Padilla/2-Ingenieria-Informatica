@@ -1,6 +1,3 @@
-[submodule "P01-AYEDA"]
-	path = P01-AYEDA
-	url = https://github.com/Marco-Perez-Padilla/P01-AYEDA.git
 [submodule "AYEDA/P01-AYEDA"]
 	path = AYEDA/P01-AYEDA
 	url = https://github.com/Marco-Perez-Padilla/P01-AYEDA.git
